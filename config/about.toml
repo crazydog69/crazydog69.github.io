@@ -2,6 +2,7 @@ name = "Kishore Kumar SS"
 rol = "Full Stack Developer"
 email = "kishorekumarsskh@gmail.com"
 phone = "+91 9566176890"
+birthday = "December 16, 2004"
 location = "Vellore, Tamil Nadu"
 avatar = "./config/assets/avatars/my-avatar.png"
 username = "kishorekumarss" # <-- github user name
